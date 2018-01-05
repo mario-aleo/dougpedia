@@ -1,0 +1,7 @@
+{
+  "name": "Dougpedia",
+  "short_name": "Dougpedia",
+  "description": "Bad Joke Repository",
+  "start_url": "/",
+  "display": "standalone"
+}
